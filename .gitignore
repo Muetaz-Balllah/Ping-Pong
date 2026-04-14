@@ -126,3 +126,4 @@ Thumbs.db
 
 # Temporary files
 tempCodeRunnerFile.py
+*.gitignore
